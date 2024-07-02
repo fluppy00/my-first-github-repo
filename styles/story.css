@@ -1,0 +1,19 @@
+div{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+header{
+    height: 500px;
+    background-image:url('../styles/fc9014f82a004305a9ff40bb00ba5ee4.jpg');
+    background-repeat: no-repeat;
+}
+
+#bond{
+    border: 2px solid rgb(120, 60, 60);
+    border-radius: 10px 10px;
+    margin: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 10px 10px red;
+}
+#step{
+   text-align: center;
+}
